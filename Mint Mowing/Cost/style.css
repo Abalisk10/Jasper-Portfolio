@@ -8,8 +8,9 @@
 {
     background-color: antiquewhite;
 }
+
 table{
-    height: 200px;
+    height: 350px;
     width: 34%;
     background-color: white;
 
@@ -18,6 +19,7 @@ table{
   position: absolute;
   top: 8px;
   right: 0;
+
 }
 #video{
     position: absolute;
