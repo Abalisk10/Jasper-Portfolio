@@ -1,0 +1,21 @@
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    color:brown;
+}
+h2 {
+    color: bisque;
+}
+li{
+    color: bisque;
+}
+div{
+    background-color: black;
+    border: 5px solid white;
+    margin: 0;
+    width: 165px;
+    padding-right: 50px;
+}
+img {
+    width: 225px;
+}
