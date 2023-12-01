@@ -1,0 +1,31 @@
+body {
+ background-image: url(./morning\ grass.jpg);
+ background-size: cover;
+ background-attachment: fixed;
+ background-position: center center;
+}
+
+h1{
+    text-align: center;
+    font-size: 7rem;
+    color: seagreen;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 300px;
+}
+    
+footer {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: silver;
+}
+hr {
+    margin-bottom: 30px;
+}
+#video {
+    height: 25vw;
+    border: 5px solid black;
+    margin-top: 20px;
+}
